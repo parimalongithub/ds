@@ -28,6 +28,8 @@ public class AddClient {
 //2 termiinal rmiregistry
 //1 termianl java AddServer
 // 3 terminal java AddClient  192.168.1.100 1 2
+////java AddClient localhost 5 7
+
 
 
 //rmic AddServerImpl
